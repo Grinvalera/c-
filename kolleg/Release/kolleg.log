@@ -1,0 +1,2 @@
+﻿  kolleg.cpp
+C:\Users\Grinvalera\source\repos\kolleg\kolleg\kolleg.cpp(44,17): error C3867: "Time::operator -": нестандартный синтаксис; используйте "&", чтобы создать указатель на член
